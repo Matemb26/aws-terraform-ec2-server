@@ -1,10 +1,8 @@
-# Chapter 07 — Set up AWS and build your first cloud server (Terraform)
+#  Set up AWS and build your first cloud server (Terraform)
 
-> Matches **Chapter 07** in the book. The runnable file for this chapter, `main.tf`, is in this folder.
 
 **Labels:** 💳 Needs an account that may cost money · 🌐 Needs the internet · 🧑‍🤝‍🧑 Easier with a helper the first time
 
----
 
 ## The big idea (in plain words)
 
